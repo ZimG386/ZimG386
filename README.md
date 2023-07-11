@@ -2,8 +2,6 @@
 
 ### Hi there 👋
  **Welcome to Zim's codespace!**
-- 🔭 I’m currently working on Unreal Engine. 
-- 💬 Ask me about ECE and DS!
+- 🔭 I’m currently working on Unreal Engine and autonomoous vehicle simulation! 
 - 📫 How to reach me: zimgong@umich.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
