@@ -2,6 +2,6 @@
 
 ### Hi there 👋
  **Welcome to Zim's codespace!**
-- 🔭 I’m currently working on Unreal Engine and autonomoous vehicle simulation! 
+- 🔭 This fall I am working on Django, HTML/CSS and machine learning. 
 - 📫 How to reach me: zimgong@umich.edu
 - 😄 Pronouns: he/him
