@@ -2,6 +2,6 @@
 
 ### Hi there 👋
  **Welcome to Zim's codespace!**
-- 🔭 My focus are Machine Learning, Operating Systems and Databases
-- 📫 How to reach me: zimgong@umich.edu
-- 😄 Pronouns: he/him
+- :telescope: My focus are Machine Learning, Operating Systems and Databases
+- :computer: Fluent in Python, C++, SQL, Django, Unreal Engine
+- :smile: Pronouns: he/him
