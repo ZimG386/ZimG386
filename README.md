@@ -4,4 +4,3 @@
  **Welcome to Zim's codespace!**
 - :telescope: My focus are Machine Learning, Operating Systems and Databases
 - :computer: Fluent in Python, C++, SQL, Django, Unreal Engine
-- :smile: Pronouns: he/him
