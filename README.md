@@ -2,6 +2,6 @@
 
 ### Hi there 👋
  **Welcome to Zim's codespace!**
-- 🔭 This fall I am working on Django, HTML/CSS and machine learning. 
+- 🔭 My focus are Machine Learning, Operating Systems and Databases
 - 📫 How to reach me: zimgong@umich.edu
 - 😄 Pronouns: he/him
