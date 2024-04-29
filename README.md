@@ -2,5 +2,5 @@
 
 ### Hi there 👋
  **Welcome to Zim's codespace!**
-- :telescope: My focuses are Machine Learning, Autonomous Driving, and Databases
-- :computer: Fluent in Python, C++, SQL
+- :telescope: I am working in the field of machine learning and autonomous driving.
+- :computer: Fluent in Python and C++. 
