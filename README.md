@@ -2,5 +2,5 @@
 
 ### Hi there 👋
  **Welcome to Zim's codespace!**
-- :telescope: I am working in the field of machine learning and autonomous driving.
+- :telescope: I am working in machine learning and simulation in autonomous driving.
 - :computer: Fluent in Python and C++. 
